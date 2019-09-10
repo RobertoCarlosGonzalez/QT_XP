@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagen/cancun.png</file>
+        <file>imagen/chiapas.png</file>
+        <file>imagen/chihuahua.png</file>
+        <file>imagen/ciuddad de mexico.png</file>
+        <file>imagen/jalisco.png</file>
+        <file>imagen/michoacán.png</file>
+        <file>imagen/nayarit.png</file>
+        <file>imagen/oaxaca.png</file>
+        <file>imagen/potosi.png</file>
+        <file>imagen/puebla.png</file>
+        <file>imagen/veracruz.png</file>
+        <file>imagen/yucatan.png</file>
+    </qresource>
+</RCC>
