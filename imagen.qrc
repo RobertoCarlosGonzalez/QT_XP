@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/ ">
+        <file>imagen/seguridad.png</file>
+        <file>imagen/cancun_optimized.png</file>
+        <file>imagen/chiapas_optimized.png</file>
+        <file>imagen/chihuahua_optimized.png</file>
+        <file>imagen/ciuddaddemexico_optimized.png</file>
+        <file>imagen/jalisco_optimized.png</file>
+        <file>imagen/michoacán_optimized.png</file>
+        <file>imagen/nayarit_optimized.png</file>
+        <file>imagen/oaxaca_optimized.png</file>
+        <file>imagen/potosi_optimized.png</file>
+        <file>imagen/puebla_optimized.png</file>
+        <file>imagen/veracruz_optimized.png</file>
+        <file>imagen/yucatan_optimized.png</file>
+        <file>imagen/folder_pictures_22600.png</file>
+    </qresource>
+</RCC>
