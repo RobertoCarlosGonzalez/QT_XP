@@ -3,7 +3,7 @@ CREATE TABLE reservacion(
   idReservacion INT NOT NULL AUTO_INCREMENT ,
   f_llegada VARCHAR(45) NOT NULL ,
   f_salida VARCHAR(45) NOT NULL ,
-  total VARCHAR(45) NOT NULL,
+  total VARCHAR(45),
   idCliente INT(11) NOT NULL,
   idCasa INT(11) NOT NULL,
   deposito VARCHAR(45) NOT NULL,
